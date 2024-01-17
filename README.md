@@ -1,4 +1,4 @@
-## Node.js EJS Harmony
+# Node.js EJS Harmony
 A web application built on Express.js with EJS Harmony for modular and reusable components. Simplify UI development and enhance code organization effortlessly.
 
 ## Getting Started
