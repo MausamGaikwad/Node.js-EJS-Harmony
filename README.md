@@ -2,17 +2,17 @@
 A web application built on Express.js with EJS Harmony for modular and reusable components. Simplify UI development and enhance code organization effortlessly.
 
 ## Getting Started
-Clone the repository:
+1. Clone the repository:
 
 bash
 Copy code
 git clone https://github.com/MausamGaikwad/Node.js-EJS-Harmony.git
-Install dependencies:
+2. Install dependencies:
 
 bash
 Copy code
 npm install
-Run the application:
+3. Run the application:
 
 bash
 Copy code
