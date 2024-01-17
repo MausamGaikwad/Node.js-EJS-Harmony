@@ -25,8 +25,8 @@ Access the application at http://localhost:3000.
 * partials/: Reusable EJS partials for enhanced modularity.
 ## Pages
 Home
-Path: /
-Displays a sample home page with placeholder content.
+* Path: /
+* Displays a sample home page with placeholder content.
 ## About
 Path: /about
 Presents information about the project creator with placeholder content.
