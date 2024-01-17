@@ -3,20 +3,18 @@ A web application built on Express.js with EJS Harmony for modular and reusable 
 
 ## Getting Started
 1. Clone the repository:
-bash
 Copy code
 ``git clone https://github.com/MausamGaikwad/Node.js-EJS-Harmony.git``
 
 2. Install dependencies:
-bash
 Copy code
-npm install
-3. Run the application:
+``npm install``
 
-bash
+3. Run the application:
 Copy code
-npm start
-Access the application at http://localhost:3000.
+``npm start``
+
+* Access the application at http://localhost:3000.
 
 ## Project Structure
 * public/: Contains static files (HTML, CSS, images, etc.).
