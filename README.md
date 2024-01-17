@@ -20,9 +20,9 @@ npm start
 Access the application at http://localhost:3000.
 
 ## Project Structure
-public/: Contains static files (HTML, CSS, images, etc.).
-views/: Includes EJS templates for dynamic content.
-partials/: Reusable EJS partials for enhanced modularity.
+* public/: Contains static files (HTML, CSS, images, etc.).
+* views/: Includes EJS templates for dynamic content.
+* partials/: Reusable EJS partials for enhanced modularity.
 ## Pages
 Home
 Path: /
