@@ -23,17 +23,17 @@ Access the application at http://localhost:3000.
 public/: Contains static files (HTML, CSS, images, etc.).
 views/: Includes EJS templates for dynamic content.
 partials/: Reusable EJS partials for enhanced modularity.
-Pages
+## Pages
 Home
 Path: /
 Displays a sample home page with placeholder content.
-About
+## About
 Path: /about
 Presents information about the project creator with placeholder content.
-Contact
+## Contact
 Path: /contact
 Features a contact form with fields for name, email, and comments.
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-Feel free to explore and contribute!
+**Feel free to explore and contribute!**
